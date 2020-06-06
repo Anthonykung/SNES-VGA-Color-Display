@@ -1,6 +1,6 @@
-# SNES VGA Sprite Display Version 4.0
+# SNES VGA Color Display Version 2.0
 
-## Thanks for using SNES VGA Sprite Display Version 4.0
+## Thanks for using SNES VGA Color Display Version 2.0
 Let's see if we can help you out! Here's some of the documentations on how to use this package.
 
 ## How To Use
@@ -23,4 +23,3 @@ select the component you want to test. Copy the full file path, go back to Model
 `do /path/to/folder/Simulation\ Do\ Files/Selected_Component.do`
 
 Created with 💖 By [Anthony Kung](https://hailiga.org/anthonykung)
-# SNES-VGA-Color-Display
