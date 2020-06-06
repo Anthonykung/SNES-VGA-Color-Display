@@ -206,3 +206,57 @@ force -freeze sim:/H_Display/H_Counts 0001100100 0
 run 100ps
 force -freeze sim:/H_Display/H_Counts 0001100101 0
 run 100ps
+force -freeze sim:/H_Display/H_Counts 0001100110 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001100111 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001101000 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001101001 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001101010 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001101011 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001101100 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001101101 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001101110 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001101111 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001110000 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001110001 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001110010 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001110011 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001110100 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001110101 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001110110 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001110111 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001111000 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001111001 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001111010 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001111011 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001111100 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001111101 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001111110 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0001111111 0
+run 100ps
+force -freeze sim:/H_Display/H_Counts 0010000000 0
+run 100ps

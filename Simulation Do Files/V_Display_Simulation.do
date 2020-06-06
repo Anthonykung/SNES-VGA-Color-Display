@@ -84,3 +84,49 @@ force -freeze sim:/V_Display/V_Counts 0000100111 0
 run 100ps
 force -freeze sim:/V_Display/V_Counts 0000101000 0
 run 100ps
+force -freeze sim:/V_Display/V_Counts 0000101001 0
+run 100ps
+force -freeze sim:/V_Display/V_Counts 0000101010 0
+run 100ps
+force -freeze sim:/V_Display/V_Counts 0000101011 0
+run 100ps
+force -freeze sim:/V_Display/V_Counts 0000101100 0
+run 100ps
+force -freeze sim:/V_Display/V_Counts 0000101101 0
+run 100ps
+force -freeze sim:/V_Display/V_Counts 0000101110 0
+run 100ps
+force -freeze sim:/V_Display/V_Counts 0000101111 0
+run 100ps
+force -freeze sim:/V_Display/V_Counts 0000110000 0
+run 100ps
+force -freeze sim:/V_Display/V_Counts 0000110001 0
+run 100ps
+force -freeze sim:/V_Display/V_Counts 0000110010 0
+run 100ps
+force -freeze sim:/V_Display/V_Counts 0000110100 0
+run 100ps
+force -freeze sim:/V_Display/V_Counts 0000110101 0
+run 100ps
+force -freeze sim:/V_Display/V_Counts 0000110110 0
+run 100ps
+force -freeze sim:/V_Display/V_Counts 0000110111 0
+run 100ps
+force -freeze sim:/V_Display/V_Counts 0000111000 0
+run 100ps
+force -freeze sim:/V_Display/V_Counts 0000111001 0
+run 100ps
+force -freeze sim:/V_Display/V_Counts 0000111010 0
+run 100ps
+force -freeze sim:/V_Display/V_Counts 0000111011 0
+run 100ps
+force -freeze sim:/V_Display/V_Counts 0000111100 0
+run 100ps
+force -freeze sim:/V_Display/V_Counts 0000111101 0
+run 100ps
+force -freeze sim:/V_Display/V_Counts 0000111110 0
+run 100ps
+force -freeze sim:/V_Display/V_Counts 0000111111 0
+run 100ps
+force -freeze sim:/V_Display/V_Counts 0001000000 0
+run 100ps

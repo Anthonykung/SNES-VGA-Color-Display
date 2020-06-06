@@ -20,35 +20,35 @@ module SNES_VGA_Button_Decoder  (input logic Select, Start, A, B, X, Y,
 		BLUE <= 4'd0;
 	 end
 	 
-	 else if (!Start)
+	 if (!Start)
 	 begin
 	   RED <= 4'd15;
 		GREEN <= 4'd15;
 		BLUE <= 4'd15;
 	 end
 	 
-	 else if (!A)
+	 if (!A)
 	 begin
 	   RED <= 4'd0;
 		GREEN <= 4'd15;
 		BLUE <= 4'd15;
 	 end
 	 
-	 else if (!B)
+	 if (!B)
 	 begin
 	   RED <= 4'd0;
 		GREEN <= 4'd0;
 		BLUE <= 4'd15;
 	 end
 	 
-	 else if (!X)
+	 if (!X)
 	 begin
 	   RED <= 4'd0;
 		GREEN <= 4'd15;
 		BLUE <= 4'd0;
 	 end
 	 
-	 else if (!Y)
+	 if (!Y)
 	 begin
 	   RED <= 4'd15;
 		GREEN <= 4'd15;
@@ -67,4 +67,3 @@ module SNES_VGA_Button_Decoder  (input logic Select, Start, A, B, X, Y,
   
 
 endmodule
-
